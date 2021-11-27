@@ -1,0 +1,14 @@
+{
+	"jdk": {
+		"url": "https://shingzhanho.github.io/MinecraftServerLauncher/jdk-17.0.1.zip",
+		"checksum": "425D9BC93C3EE0134B9DE896D865CF02"
+	},
+	"ngrok": {
+		"url": "https://shingzhanho.github.io/MinecraftServerLauncher/utils-ngrok.zip",
+		"checksum": "22E12C52EA5DC9D23862D16807D6908A"
+	},
+	"mc-server": {
+		"url": "https://shingzhanho.github.io/MinecraftServerLauncher/mc-server-1.17.1.zip",
+		"checksum": "E1713C83C2EEBEF6F235B808E0C066DF"
+	}
+}
